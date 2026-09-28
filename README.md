@@ -32,5 +32,6 @@ Follow these steps to set up and run the project locally:
 - Git installed.
 
 ### 1. Clone the Repository
-```bash                                                                                                                                                             git clone https://github.com/saw4essay/enterprise-scheduler.git
-cd enterprise-scheduler 
+```bash 
+git clone https://github.com/your-username/enterprise-scheduler.git
+cd enterprise-scheduler
